@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christiano-machado-3a03bb140/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/chriszinhoooooo)
 
-<!-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/chrismachado/chrismachado">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrismachado&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aditya's GitHub Stats" />
+</a>
 
+<a href="https://github.com/chrismachado/chrismachado">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrismachado&hide=Jupyter%20Notebook&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chris's Top Langauages" />
+</a>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrismachado&show_icons=true)](https://github.com/chrismachado)
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=chrismachado" alt="chrismachado"/> </p>
